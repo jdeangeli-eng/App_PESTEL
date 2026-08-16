@@ -1,0 +1,3 @@
+Parametrización modular: permite cambiar rápidamente la industria, la geografía y la temporalidad (bimestre, trimestre, semestre o año) sin rehacer la estructura.
+Calificación del impacto: Al exigir que la IA clasifique el impacto (Positivo/Negativo, Alto/Medio/Bajo), evita párrafos teóricos y entrega una matriz lista para traducir a una matriz FODA (Oportunidades y Amenazas).
+Foco en el marco temporal: La restricción obliga al modelo a centrarse en factores coyunturales del período elegido (por ejemplo, cambios de tasa de interés proyectados o normativas que entren en vigor en ese lapso) y no solo en generalidades históricas.
